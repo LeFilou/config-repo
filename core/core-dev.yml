@@ -5,4 +5,4 @@ server:
 
 config:
   database:
-    url: "jdbc:postgresql://database:5432/core"
+    url: "jdbc:postgresql://database:5432/core_dev"
